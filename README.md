@@ -2,7 +2,7 @@
 
 ### 🎯 Objectives
 - Create HTML elements with attributes to add links and images to their pages.
-
+- 
 ## Table of Contents
 
 1. [Getting Started](#getting-started)
